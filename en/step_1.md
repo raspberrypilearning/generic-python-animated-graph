@@ -7,7 +7,7 @@ You can install matplotlib using a package manager such as `apt` or `pip`.
 
 ```bash
 sudo pip3 install matplotlib #using pip
-sudo apt install python3-matplotlib #debian based linux
+sudo apt install python3-matplotlib #using Debian based linux
 ```
 
 --- /task ---
