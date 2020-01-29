@@ -45,7 +45,7 @@ def animate(i):
 
     # Auto format the date
     fig.autofmt_xdate()
-    print(i)
+
 
 # Call the animation function every 1000ms
 ani = animation.FuncAnimation(fig,
