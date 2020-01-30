@@ -1,6 +1,7 @@
 Here's how you can animate a graph using `matplotlib` in Python. This can be used to live monitor sensor data, or data streamed to your computer over the internet.
 
 ![animated graph showing random data being plotted over time](images/animate_graph.gif)
+
 --- task ---
 
 You can install matplotlib using a package manager such as `apt` or `pip`.
